@@ -1,1 +1,3 @@
 Első repom
+
+Kíváncsiságból írok ide. Vajon automatikusan beleteszi-e a változásokat a repoba?
