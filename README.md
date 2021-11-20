@@ -1,2 +1,2 @@
-# Els-repo
+# Elso-repo
 Próbálkozás
