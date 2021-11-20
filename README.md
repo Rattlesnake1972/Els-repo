@@ -1,3 +1,3 @@
 # Elso-repo
 Próbálkozás
-Nem egyszerű dolog ez.
+Nem volt egyszerű dolog ez.
